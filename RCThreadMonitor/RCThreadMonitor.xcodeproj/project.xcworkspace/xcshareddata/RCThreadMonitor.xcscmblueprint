@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1E713E293AD9D10714FD660FF1FB16C96D0C28C4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "151a885f-3fcc-f34a-a0f5-f20a7b2803b9++1274" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1E713E293AD9D10714FD660FF1FB16C96D0C28C4" : 0,
+    "151a885f-3fcc-f34a-a0f5-f20a7b2803b9++1274" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "39370C80-5BE5-48DE-A46E-86447E4C846D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1E713E293AD9D10714FD660FF1FB16C96D0C28C4" : "ThreadMonitor\/",
+    "151a885f-3fcc-f34a-a0f5-f20a7b2803b9++1274" : "ThreadMonitor\/RCThreadMonitor\/RCThreadMonitor\/RCThreadMonitor\/CrashReporter.framework\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RCThreadMonitor",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "RCThreadMonitor\/RCThreadMonitor.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/tc-svn.tencent.com\/tr\/tr_qqmaster_rep",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "151a885f-3fcc-f34a-a0f5-f20a7b2803b9++1274"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/RobinChao\/ThreadMonitor.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1E713E293AD9D10714FD660FF1FB16C96D0C28C4"
+    }
+  ]
+}
